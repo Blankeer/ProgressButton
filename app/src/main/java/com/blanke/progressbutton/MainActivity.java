@@ -1,8 +1,10 @@
 package com.blanke.progressbutton;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import com.blanke.lib.ProgressButton;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private ProgressButton progressbutton;

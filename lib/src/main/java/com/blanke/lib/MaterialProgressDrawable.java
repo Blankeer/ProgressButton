@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.blanke.progressbutton;
+package com.blanke.lib;
 
 import android.view.animation.Interpolator;
 import android.view.animation.Animation;

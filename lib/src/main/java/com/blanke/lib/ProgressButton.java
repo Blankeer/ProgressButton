@@ -1,4 +1,4 @@
-package com.blanke.progressbutton;
+package com.blanke.lib;
 
 import android.content.Context;
 import android.graphics.Color;
